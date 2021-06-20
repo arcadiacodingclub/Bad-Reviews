@@ -9,4 +9,10 @@ The idea for the project was to find the actuality of user submitted articles. W
 * Web Development (HTML, CSS, JS)
 * JSON
 
+## Installation of Chrome Extension
+1. Clone or download the repository
+2. Type in `chrome://extensions` in the URL
+3. In the top left corner, click on the Load unpacked. Navigate to the folder where the repository is cloned.
+4. The functionality of the Chrome Extension includes a popup menu, which can be accessed when the extension icon is clicked on. The menu is purely front-end due to the time restrictions of the Hackathon and challenges faced.
+
 ### Developed by the HTML Hackers team for the 2021 HighTechHack Hackathon
