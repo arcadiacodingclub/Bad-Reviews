@@ -1,0 +1,13 @@
+{
+    "name": "Bad Review Detector",
+    "description": "Detects bad reviews!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+        "128": "128icon.png",
+        "32": "32icon.png"
+    },
+    "action": {
+        "default_popup": "index.html"
+    }
+}
